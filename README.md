@@ -18,3 +18,7 @@ Currently, two official plugins are available:
 • npm i -D tailwindcss postcss autoprefixer
 
 • npx tailwindcss init -p
+
+## Runtime
+
+• npm run dev
